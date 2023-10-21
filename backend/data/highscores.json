@@ -1,11 +1,15 @@
 [
   {
-    "name": "Aisi",
+    "name": "Sienna",
     "score": 10
   },
   {
     "name": "janbanan",
     "score": 9
+  },
+  {
+    "name": "Hej",
+    "score": 8
   },
   {
     "name": "Birger",
@@ -14,9 +18,5 @@
   {
     "name": "Babe",
     "score": 6
-  },
-  {
-    "name": "David",
-    "score": 4
   }
 ]
