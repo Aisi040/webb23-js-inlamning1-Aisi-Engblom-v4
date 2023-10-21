@@ -1,0 +1,8 @@
+7
+82C:\Programmering\-webb23-js2-inlamning1-Aisi-Engblom-v3\frontend\src\css\style.css133423786976661212 0
+72C:\Programmering\-webb23-js2-inlamning1-Aisi-Engblom-v3\frontend\src\css133423809873008738 1
+79C:\Programmering\-webb23-js2-inlamning1-Aisi-Engblom-v3\frontend\src\index.html133423786976661212 0
+76C:\Programmering\-webb23-js2-inlamning1-Aisi-Engblom-v3\frontend\src\main.js133423786976661212 0
+100C:\Programmering\-webb23-js2-inlamning1-Aisi-Engblom-v3\frontend\src\node_modules\.package-lock.json133423786976674283 0
+81C:\Programmering\-webb23-js2-inlamning1-Aisi-Engblom-v3\frontend\src\node_modules133423809873048628 1
+86C:\Programmering\-webb23-js2-inlamning1-Aisi-Engblom-v3\frontend\src\package-lock.json133423786976679313 0
