@@ -1,8 +1,8 @@
 7
-80C:\Programmering\webb23-js-inlamning1-Aisi-Engblom-v4\frontend\src\css\style.css133423786976661212 0
-70C:\Programmering\webb23-js-inlamning1-Aisi-Engblom-v4\frontend\src\css133423832840630698 1
-77C:\Programmering\webb23-js-inlamning1-Aisi-Engblom-v4\frontend\src\index.html133423786976661212 0
-74C:\Programmering\webb23-js-inlamning1-Aisi-Engblom-v4\frontend\src\main.js133423819988382687 0
-98C:\Programmering\webb23-js-inlamning1-Aisi-Engblom-v4\frontend\src\node_modules\.package-lock.json133423786976674283 0
-79C:\Programmering\webb23-js-inlamning1-Aisi-Engblom-v4\frontend\src\node_modules133423832840684547 1
-84C:\Programmering\webb23-js-inlamning1-Aisi-Engblom-v4\frontend\src\package-lock.json133423786976679313 0
+77C:\Programmering\github\webb23-js-inlamning1-Aisi-Engblom-v4\frontend\src\css133423938585748279 1
+87C:\Programmering\github\webb23-js-inlamning1-Aisi-Engblom-v4\frontend\src\css\style.css133423938585748279 0
+84C:\Programmering\github\webb23-js-inlamning1-Aisi-Engblom-v4\frontend\src\index.html133423938585748279 0
+86C:\Programmering\github\webb23-js-inlamning1-Aisi-Engblom-v4\frontend\src\node_modules133423938585758173 1
+81C:\Programmering\github\webb23-js-inlamning1-Aisi-Engblom-v4\frontend\src\main.js133423938585748279 0
+105C:\Programmering\github\webb23-js-inlamning1-Aisi-Engblom-v4\frontend\src\node_modules\.package-lock.json133423938585758173 0
+91C:\Programmering\github\webb23-js-inlamning1-Aisi-Engblom-v4\frontend\src\package-lock.json133423938585758173 0
